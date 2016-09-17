@@ -1,2 +1,5 @@
 # hello-world
-My first repository.
+
+Hi there!
+
+I'm Alex and I like Python.
